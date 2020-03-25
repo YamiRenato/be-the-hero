@@ -1,4 +1,4 @@
-# Be the Hero
+# Be The Hero
 Aplicação que conecta pessoas que tem vontade de ajudar (Heróis) à ONGs que estão precisando de alguma ajuda.
 
 ## Tecnologias :wrench:
