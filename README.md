@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Semana OmniStack" src=".github/logo.svg" width="500px" />
+  <img alt="Semana OmniStack" src=".github/logo.svg" width="300px" />
 </h1>
 
 Aplicação que conecta pessoas que tem vontade de ajudar (Heróis) à ONGs que estão precisando de alguma ajuda.
